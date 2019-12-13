@@ -1,6 +1,6 @@
 # nano-lang
 
-A compiler and an assmbler for a extremely small language.
+A compiler and an assmbler for a extremely small language on Linux x86-64
 
 # usage
 
