@@ -14,5 +14,7 @@ hello, world!
 
 # files
 
+```
 nanoc.c : compiler
 nanoa.c : assembler
+```
